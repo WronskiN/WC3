@@ -1,6 +1,7 @@
-#project - practice code: PSD to WEB. 
+Practice with HTML and CSS. Project from Weekly Web Challenge group. 
 
-Please let me know what you think about my project. Would you change something? any advice very welcome.
+PSD to HTML/CSS.
+
 
 Thank you. 
 Norbert W. 
